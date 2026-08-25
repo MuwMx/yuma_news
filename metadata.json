@@ -4,10 +4,10 @@
     "Title": "Релиз Yuma v2.0",
     "Description": "Полный редизайн интерфейса, плавающий остров и трехуровневая шторка плеера.",
     "ImageURL": [
-      "https://raw.githubusercontent.com/muwxm/yuma_news/main/assets/banner.png"
+      "https://tenor.com/iL2F68gl5gv.gif"
     ],
     "Important": true,
-    "Author": "Lexa",
+    "Author": "MuwMix",
     "Date": 1787600000
   },
   {
@@ -16,7 +16,7 @@
     "Description": "Добавлена генерация ромадзи, фуриганы и синхронного перевода строк на лету.",
     "ImageURL": [],
     "Important": false,
-    "Author": "Lexa",
+    "Author": "MuwMix",
     "Date": 1787500000
   }
 ]

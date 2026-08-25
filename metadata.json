@@ -1,0 +1,22 @@
+[
+  {
+    "id": "yuma-v2-release.md",
+    "Title": "Релиз Yuma v2.0",
+    "Description": "Полный редизайн интерфейса, плавающий остров и трехуровневая шторка плеера.",
+    "ImageURL": [
+      "https://raw.githubusercontent.com/muwxm/yuma_news/main/assets/banner.png"
+    ],
+    "Important": true,
+    "Author": "Lexa",
+    "Date": 1787600000
+  },
+  {
+    "id": "ai-furigana-update.md",
+    "Title": "AI-перевод и фуригана",
+    "Description": "Добавлена генерация ромадзи, фуриганы и синхронного перевода строк на лету.",
+    "ImageURL": [],
+    "Important": false,
+    "Author": "Lexa",
+    "Date": 1787500000
+  }
+]

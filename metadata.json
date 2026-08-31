@@ -1,22 +1,11 @@
 [
   {
     "id": "yuma-v2-release.md",
-    "Title": "Релиз Yuma!",
-    "Description": "Полный редизайн интерфейса, плавающий остров и трехуровневая шторка плеера.",
-    "ImageURL": [
-      "https://media.tenor.com/ZEwQ1j7UzfUAAAAj/%D0%BD%D1%8F%D1%88%D0%BA%D0%B0-%D1%81-%D0%BC%D0%B8%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%BE%D0%B9-%D0%BC%D0%BE%D1%80%D0%B4%D0%B0%D1%88%D0%BA%D0%BE%D0%B9-%D0%BD%D1%8F%D1%88%D0%BA%D0%B0.gif"
-    ],
+    "Title": "Yuma v1.0 Beta is Here! 🎉",
+    "Description": "First public beta — native Compose, dual Spotify/YouTube Home and YDS 2.1. Thanks for being with us! Join our Telegram.",
+    "ImageURL": [],
     "Important": true,
     "Author": "MuwMix",
     "Date": 1787600000
-  },
-  {
-    "id": "ai-furigana-update.md",
-    "Title": "AI-перевод и фуригана",
-    "Description": "Добавлена генерация ромадзи, фуриганы и синхронного перевода строк на лету.",
-    "ImageURL": [],
-    "Important": false,
-    "Author": "MuwMix",
-    "Date": 1787500000
   }
 ]

@@ -1,15 +1,17 @@
-# Yuma v1.0 Beta is Here! 🎉
+# YumaPlayer: Canary Builds & Smoother UI ⚡
 
-Thank you for using Yuma — this first public beta is built from scratch in native Jetpack Compose with a focus on speed, clean aesthetics, and great sound.
+Quick update on what's new!
 
-**What's new:**
-* **Dual Home:** Spotify feeds (Daily Mixes, Discover Weekly) + full YouTube Music catalog
-* **Lossless & Hi-Res:** Opus/AAC via YouTube Music with seamless FLAC fallback via Qobuz
-* **YDS 2.1:** Glassmorphism cards, floating islands, Monet theming and morphing headers
-* **3-Tier Lyrics:** Kanji/Hangul + Romaji + live AI translation
+We spent the last few weeks polishing the app: fixed the background lag when skipping tracks, smoothed out the UI, and automated our test builds.
 
-This is an early beta (90% ready) — if you spot a glitch, let us know with a screenshot + your phone model.
+What's new:
+* Canary Channel: want to try new features early? You can now grab automated test builds directly from [YumaCanary](https://github.com/MuwMx/YumaCanary).
+* Smoother Backgrounds: player background rendering is completely reworked, so album art blur and color transitions are smooth now.
+* Translations: huge thanks to everyone on [Weblate](https://hosted.weblate.org/engage/yumaplayer/)! Italian is now at 100%[cite: 5], and 20+ other languages got fresh updates.
 
-**Join us:** [Telegram Channel](https://t.me/yumaplayer) • [GitHub Releases](https://github.com/MuwMx/YumaPlayer)
+Links:
+* Stable releases: [GitHub Releases](https://github.com/MuwMx/YumaPlayer/releases)
+* Test builds: [YumaCanary](https://github.com/MuwMx/YumaCanary)
+* Chat and feedback: [Telegram](https://t.me/yumaplayer)
 
-We're incredibly grateful to everyone who supported the project, tested builds and shared feedback. Yuma is free, open source and ad-free — made for people who love music. Stay tuned — more updates coming soon! 🚀
+Thanks to everyone testing, reporting bugs, and helping with translations. Enjoy the music! 🚀
